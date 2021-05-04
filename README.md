@@ -1,6 +1,7 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+![image](https://user-images.githubusercontent.com/21297341/116955810-f52f6680-ac69-11eb-9c15-5d99adffd3f6.png)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
+
+This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React na prática](https://reactavancado.com.br/).
 ![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
 ## What is inside?
 
