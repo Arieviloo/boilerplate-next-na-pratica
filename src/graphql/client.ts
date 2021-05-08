@@ -7,3 +7,5 @@ const client = new GraphQLClient(endpoint, {
     authorization: `Bearer ${process.env.GRAPHQL_TOKEN}`
   }
 })
+
+export default client
